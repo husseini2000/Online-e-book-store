@@ -1,2 +1,4 @@
 # Online-e-book-store
-it is hello repository
+my name is husseini ahmed 
+i am 20 years old
+i am in level 2 at my university
